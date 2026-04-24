@@ -1,4 +1,4 @@
-create database login_seguro;
+create database if not exists login_seguro;
 
   use login_seguro;
 
